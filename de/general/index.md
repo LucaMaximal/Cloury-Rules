@@ -1,5 +1,4 @@
-> [!IMPORTANT]
->  ## **Notice**
+ # **Notice**
 >
 > This rulebook is currently **not publicly released** and therefore **not yet in effect**. The rules listed here will only become effective from the official date of publication.
 >
