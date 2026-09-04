@@ -1,3 +1,15 @@
+> [!IMPORTANT]
+>  ## **Notice**
+>
+> This rulebook is currently **not publicly released** and therefore **not yet in effect**. The rules listed here will only become effective from the official date of publication.
+>
+> **Copyright & Intellectual Property**
+>
+> All content of this rulebook, including its texts, structure, wording, and concepts, is the intellectual property of **Cloury Network**. Unauthorized copying, reproduction, publication, adoption, or redistribution — in whole or in part — is not permitted.
+>
+> © **Cloury Network 2026** · All rights reserved.
+
+
 # § 1 Geltungsbereich und Vorrang
 
 ## § 1.1 Geltungsbereich
