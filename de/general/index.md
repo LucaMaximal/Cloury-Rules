@@ -411,3 +411,202 @@ umfassen.
 (7) Soweit ein Verhalten gleichzeitig von einer spezielleren Regelung dieses Regelwerks oder eines nach § 1 geltenden besonderen Regelwerks erfasst wird, sind die Bestimmungen über den Vorrang besonderer Regelungen nach § 1.4 zu beachten.
 
 (8) Die Anwendung dieses Paragraphen lässt die Anwendung anderer einschlägiger Regelungen unberührt, sofern das betreffende Verhalten zugleich gegen weitere Bestimmungen dieses Regelwerks verstößt.
+
+---
+
+# § 3 Kommunikation
+
+## § 3.1 Allgemeine Kommunikation
+
+(1) Die Kommunikation innerhalb des Geltungsbereichs dieses Regelwerks ist so zu nutzen, dass ein angemessenes, respektvolles und störungsarmes Miteinander ermöglicht wird.
+
+(2) Die Regelungen dieses Paragraphen gelten für sämtliche von Cloury bereitgestellten oder innerhalb des Geltungsbereichs genutzten Kommunikationsmöglichkeiten. Dies umfasst insbesondere:
+
+1. den öffentlichen Chat,
+2. private Nachrichten,
+3. Team-, Gruppen- und sonstige interne Chats,
+4. Voice-Chat und vergleichbare Sprachkommunikation,
+5. Kommunikationsfunktionen auf der Cloury Website,
+6. Kommunikationsfunktionen innerhalb von Spielen, Events oder sonstigen Cloury-Diensten und
+7. weitere Kommunikationsmöglichkeiten, die von Cloury bereitgestellt oder für die Kommunikation innerhalb des Geltungsbereichs genutzt werden.
+
+(3) Die in § 2 geregelten Bestimmungen zum Verhalten gelten unabhängig davon, über welches Kommunikationsmittel ein Verhalten erfolgt. Insbesondere bleiben die Regelungen zu respektvollem Umgang nach § 2.2, zu Belästigung und gezielter Störung nach § 2.3, zu Diskriminierung nach § 2.4 sowie zu Provokation und toxischem Verhalten nach § 2.5 auch bei der Nutzung von Kommunikationssystemen anwendbar.
+
+(4) Die Nutzung eines bestimmten Kommunikationsmittels begründet keine Ausnahme von den allgemeinen Verhaltensregeln. Ein Verhalten, das unabhängig vom Kommunikationsweg gegen § 2 verstößt, kann daher auch dann als Regelverstoß berücksichtigt werden, wenn es über private Nachrichten, Voice-Chat oder andere Kommunikationswege erfolgt.
+
+(5) Jede Person ist dafür verantwortlich, die von ihr verwendeten Kommunikationsmöglichkeiten bestimmungsgemäß und unter Beachtung der für den jeweiligen Bereich geltenden Regelungen zu nutzen.
+
+---
+
+## § 3.2 Chat und Nachrichten
+
+(1) Öffentliche Chats, private Nachrichten sowie Team-, Gruppen- und vergleichbare Kommunikationssysteme sind grundsätzlich für ihre vorgesehenen Kommunikationszwecke zu verwenden.
+
+(2) Kommunikation darf nicht dazu verwendet werden, andere Personen gezielt zu belästigen, zu stören, herabzuwürdigen oder in sonstiger Weise entgegen den Bestimmungen dieses Regelwerks zu beeinträchtigen.
+
+(3) Insbesondere gelten bei der Kommunikation die Regelungen nach § 2.2 bis § 2.5. Eine Nachricht kann daher unabhängig davon einen Regelverstoß darstellen, ob sie:
+
+1. öffentlich oder privat übermittelt wird,
+2. an eine einzelne Person oder mehrere Personen gerichtet ist,
+3. in einem Spiel, auf der Website oder in einem anderen Cloury-Dienst übermittelt wird oder
+4. schriftlich, mündlich oder über andere von Cloury bereitgestellte Kommunikationsmittel erfolgt.
+
+(4) Private Kommunikation stellt keinen von den Regelungen dieses Regelwerks ausgenommenen Bereich dar. Die besondere Berücksichtigung des privaten Charakters einer Kommunikation bleibt bei der Beurteilung des jeweiligen Sachverhalts jedoch möglich.
+
+(5) Bei der Beurteilung einer Kommunikation können insbesondere deren Inhalt, Zusammenhang, Empfängerkreis, Häufigkeit, Dauer, erkennbare Absicht und Auswirkungen auf andere Personen berücksichtigt werden.
+
+(6) Die Nutzung von Kommunikationssystemen darf nicht absichtlich dazu erfolgen, die bestimmungsgemäße Nutzung dieser Systeme durch andere Personen erheblich zu beeinträchtigen.
+
+---
+
+## § 3.3 Spam und Flooding
+
+(1) Das absichtliche Überfluten oder anderweitige erhebliche Stören von Kommunikationssystemen durch eine übermäßige Anzahl oder Wiederholung von Nachrichten ist untersagt.
+
+(2) Als Spam oder Flooding können insbesondere gelten:
+
+1. das wiederholte Senden identischer oder nahezu identischer Nachrichten,
+2. das Senden einer ungewöhnlich hohen Anzahl von Nachrichten innerhalb eines kurzen Zeitraums,
+3. das wiederholte und übermäßige Verwenden einzelner Zeichen, Wörter oder Symbole, soweit dadurch die Kommunikation erheblich gestört wird,
+4. das wiederholte Senden von Inhalten ohne erkennbaren kommunikativen Zweck,
+5. das absichtliche Überfüllen eines Chats oder vergleichbaren Kommunikationssystems,
+6. das wiederholte absichtliche Auslösen von Benachrichtigungen oder Erwähnungen bei anderen Personen und
+7. vergleichbares Verhalten, das nach seiner Art oder seinem Umfang geeignet ist, die Kommunikation anderer Personen erheblich zu beeinträchtigen.
+
+(3) Nicht jede Mehrfachnachricht oder kurze Folge von Nachrichten stellt automatisch Spam oder Flooding dar. Insbesondere sind der Zusammenhang, der Inhalt und die konkrete Situation zu berücksichtigen.
+
+(4) Bei der Beurteilung, ob Spam oder Flooding vorliegt, können insbesondere berücksichtigt werden:
+
+1. die Anzahl der Nachrichten,
+2. der Zeitraum, innerhalb dessen diese Nachrichten gesendet wurden,
+3. der Grad der Wiederholung,
+4. der Inhalt und Zweck der Nachrichten,
+5. die erkennbare Absicht der handelnden Person und
+6. die tatsächliche oder zu erwartende Beeinträchtigung des Kommunikationssystems oder anderer Personen.
+
+(5) Erwähnungen, Benachrichtigungen und vergleichbare Funktionen sind grundsätzlich nur in einem angemessenen und nachvollziehbaren Umfang zu verwenden.
+
+(6) Das gezielte und wiederholte Erwähnen oder Benachrichtigen anderer Personen ohne nachvollziehbaren Anlass kann insbesondere dann als Spam oder als gezielte Störung nach § 2.3 berücksichtigt werden, wenn dadurch eine erhebliche Beeinträchtigung entsteht oder das Verhalten trotz erkennbarer Ablehnung fortgesetzt wird.
+
+(7) Kommunikationsfunktionen dürfen nicht absichtlich so verwendet werden, dass andere Personen durch eine große Anzahl von Nachrichten, Erwähnungen, Benachrichtigungen oder vergleichbaren Aktionen an der normalen Nutzung von Cloury gehindert oder erheblich gestört werden.
+
+---
+
+## § 3.4 Werbung und Fremdwerbung
+
+(1) Werbung innerhalb des Geltungsbereichs dieses Regelwerks ist untersagt, soweit eine erkennbare Werbeabsicht oder ein überwiegend werbender Charakter vorliegt und die betreffende Kommunikation nicht ausdrücklich von Cloury gestattet wurde.
+
+(2) Als Werbung im Sinne dieses Paragraphen kann insbesondere die gezielte Bewerbung oder Aufforderung zur Nutzung, zum Besuch, zum Beitritt oder zur Unterstützung von:
+
+1. anderen Minecraft-Servern oder Netzwerken,
+2. Discord-Servern oder anderen Communities,
+3. YouTube- oder Twitch-Kanälen,
+4. Social-Media-Accounts oder vergleichbaren Profilen,
+5. eigenen oder fremden Projekten,
+6. Videos oder sonstigen Medien,
+7. Produkten, Dienstleistungen oder sonstigen Angeboten und
+8. vergleichbaren externen Angeboten
+
+gelten.
+
+(3) Als Werbung können insbesondere Handlungen gelten, die darauf ausgerichtet sind, andere Personen innerhalb des Geltungsbereichs dieses Regelwerks zur Nutzung, zum Besuch, zum Beitritt, zum Abonnieren, zum Folgen oder zu einer vergleichbaren Unterstützung eines beworbenen Angebots zu bewegen.
+
+(4) Dies gilt insbesondere für Aufforderungen wie:
+
+1. andere Personen zum Beitritt auf einen fremden Server aufzufordern,
+2. auf einen eigenen oder fremden YouTube- oder Twitch-Kanal aufmerksam zu machen und zum Abonnieren oder Folgen aufzufordern,
+3. für einen Discord-Server oder eine andere Community zu werben,
+4. Links, Einladungen, Adressen oder vergleichbare Zugangsmöglichkeiten zu einem beworbenen Angebot mit erkennbarem Werbezweck zu verbreiten oder
+5. andere Personen gezielt zur Nutzung oder Unterstützung eines externen Angebots aufzufordern.
+
+(5) Eine bloße Erwähnung eines externen Angebots stellt nicht allein aufgrund ihrer Existenz automatisch Werbung dar. Maßgeblich sind insbesondere der Zusammenhang, der Zweck, die Häufigkeit, der Empfängerkreis und der erkennbare werbende Charakter der Kommunikation.
+
+(6) Eine einzelne persönliche Empfehlung oder Einladung ohne erkennbaren Werbezweck kann zulässig sein. Dies gilt insbesondere für eine persönliche Kommunikation zwischen Personen, die erkennbar in einem persönlichen oder freundschaftlichen Verhältnis zueinander stehen.
+
+(7) Eine persönliche Nachricht stellt jedoch nicht allein deshalb keine Werbung dar, weil sie an eine einzelne Person gerichtet ist. Insbesondere kann auch eine private Nachricht als Werbung eingeordnet werden, wenn sie erkennbar dazu dient, ein externes Angebot gezielt zu bewerben oder Personen dafür zu gewinnen.
+
+(8) Bei der Beurteilung, ob eine Kommunikation als persönliche Mitteilung oder als Werbung einzustufen ist, können insbesondere berücksichtigt werden:
+
+1. die Beziehung zwischen den beteiligten Personen,
+2. der konkrete Anlass der Kommunikation,
+3. die Anzahl und Auswahl der Empfänger,
+4. die Häufigkeit vergleichbarer Nachrichten,
+5. die verwendeten Aufforderungen oder Werbeaussagen,
+6. die Verwendung von Links, Einladungen oder sonstigen Zugangsmöglichkeiten und
+7. die erkennbare Absicht der handelnden Person.
+
+(9) Eine wiederholte persönliche Ansprache verschiedener Personen mit vergleichbaren werbenden Nachrichten kann unabhängig davon als Werbung angesehen werden, ob jede einzelne Nachricht an nur eine Person gerichtet wurde.
+
+(10) Werbung für Angebote, die selbst gegen die Bestimmungen dieses Regelwerks oder gegen geltendes Recht verstoßen, kann zusätzlich nach den jeweils einschlägigen Regelungen dieses Regelwerks beurteilt werden.
+
+---
+
+## § 3.5 Unzulässige Inhalte
+
+(1) Die Verbreitung, Bereitstellung oder gezielte Zugänglichmachung unzulässiger Inhalte innerhalb des Geltungsbereichs dieses Regelwerks ist untersagt.
+
+(2) Als unzulässige Inhalte gelten insbesondere Inhalte, die:
+
+1. gegen die Regelungen dieses Regelwerks verstoßen,
+2. gegen die Regelungen zur Diskriminierung nach § 2.4 verstoßen,
+3. rassistisch, menschenverachtend oder anderweitig diskriminierend sind,
+4. extremistische, verfassungsfeindliche oder vergleichbar menschenverachtende Inhalte enthalten, soweit diese nach ihrem konkreten Inhalt oder ihrer Verwendung unzulässig sind,
+5. für Minderjährige ungeeignete sexuelle Inhalte enthalten,
+6. zur Begehung rechtswidriger Handlungen auffordern, diese fördern oder deren Durchführung unterstützen,
+7. nach dem jeweils anwendbaren Recht nicht verbreitet, bereitgestellt oder öffentlich zugänglich gemacht werden dürfen oder
+8. nach anderen Bestimmungen dieses Regelwerks ausdrücklich unzulässig sind.
+
+(3) Die Regelung nach Absatz 2 gilt unabhängig davon, in welcher Form ein Inhalt übermittelt oder zugänglich gemacht wird. Sie umfasst insbesondere:
+
+1. Text und Nachrichten,
+2. Bilder und Grafiken,
+3. GIFs und vergleichbare Darstellungen,
+4. Videos,
+5. Audioaufnahmen und Musik,
+6. Links und externe Inhalte,
+7. Dateien oder sonstige Medien und
+8. Inhalte, die über Voice-Chat oder andere technische Übertragungsmöglichkeiten wiedergegeben werden.
+
+(4) Ein Inhalt kann auch dann als unzulässig berücksichtigt werden, wenn die betreffende Person ihn nicht selbst erstellt hat. Dies gilt insbesondere, wenn die Person den Inhalt bewusst verbreitet, abspielt, weiterleitet, bereitstellt oder anderen Personen gezielt zugänglich macht.
+
+(5) Insbesondere ist es untersagt, rassistische, menschenverachtende oder vergleichbar diskriminierende Inhalte absichtlich über Voice-Chat, Soundboards, Musik, Aufnahmen oder andere technische Mittel gegenüber anderen Personen abzuspielen oder zu verbreiten.
+
+(6) Die Verwendung eines Inhalts als vermeintlicher Witz, Scherz, Meme, Provokation oder vergleichbare Begründung beseitigt einen möglichen Regelverstoß nicht. Für die konkrete Einordnung können jedoch die tatsächlichen Umstände des jeweiligen Falls berücksichtigt werden.
+
+(7) Inhalte, deren Verbreitung oder Zugänglichmachung nach dem jeweils anwendbaren Recht unzulässig ist, dürfen innerhalb des Geltungsbereichs dieses Regelwerks nicht verbreitet, bereitgestellt oder zugänglich gemacht werden.
+
+(8) Die Regelungen dieses Paragraphen schließen die zusätzliche Anwendung anderer Bestimmungen dieses Regelwerks nicht aus. Ein Inhalt kann daher gleichzeitig gegen § 2 und § 3 verstoßen.
+
+---
+
+## § 3.6 Umgehung von Kommunikationsbeschränkungen
+
+(1) Von Cloury verhängte oder technisch eingerichtete Kommunikationsbeschränkungen dürfen nicht absichtlich umgangen werden.
+
+(2) Dies gilt insbesondere für:
+
+1. Chat-Mutes,
+2. Einschränkungen des Schreibens oder Sendens von Nachrichten,
+3. Voice-Chat-Sperren oder vergleichbare Einschränkungen,
+4. technische Filter oder Kommunikationsfilter,
+5. persönliche Kommunikationssperren,
+6. Einschränkungen einzelner Kommunikationsfunktionen und
+7. vergleichbare von Cloury eingerichtete oder verhängte Kommunikationsbeschränkungen.
+
+(3) Eine Umgehung kann insbesondere vorliegen, wenn eine Person trotz einer bestehenden Kommunikationsbeschränkung:
+
+1. ein anderes Kommunikationssystem verwendet, um die betreffende Einschränkung gezielt zu umgehen,
+2. eine andere Person dazu veranlasst oder nutzt, Nachrichten an ihrer Stelle zu übermitteln,
+3. technische oder organisatorische Maßnahmen zur Aufhebung oder Umgehung der Beschränkung verwendet,
+4. bewusst zwischen verschiedenen Kommunikationswegen wechselt, um eine bestehende Einschränkung unwirksam zu machen oder
+5. vergleichbare Maßnahmen ergreift, die erkennbar auf die Umgehung der Kommunikationsbeschränkung gerichtet sind.
+
+(4) Eine Kommunikationsbeschränkung gilt grundsätzlich für den von der jeweiligen Maßnahme erfassten Kommunikationsbereich und Zeitraum. Die Nutzung eines anderen Kommunikationswegs stellt nicht automatisch eine zulässige Alternative dar, wenn dadurch der Zweck der Beschränkung umgangen wird.
+
+(5) Die Verwendung einer anderen Person zur Übermittlung eigener Nachrichten kann insbesondere dann als Umgehung einer Kommunikationsbeschränkung angesehen werden, wenn die andere Person erkennbar dazu eingesetzt wird, die betreffende Beschränkung für die betroffene Person unwirksam zu machen.
+
+(6) Die Regelungen dieses Paragraphen betreffen ausschließlich die Umgehung von Kommunikationsbeschränkungen. Eine darüber hinausgehende Umgehung von Sperren, Ausschlüssen oder sonstigen Maßnahmen wird durch die hierfür vorgesehenen Regelungen dieses Regelwerks gesondert bestimmt.
+
+(7) Die Tatsache, dass eine technische Kommunikationsbeschränkung möglicherweise technisch umgangen werden kann, stellt keine Erlaubnis zu ihrer Umgehung dar.
+
+(8) Soweit eine Kommunikationsbeschränkung aufgrund einer besonderen Regelung für einen bestimmten Bereich gilt, bleiben die Bestimmungen über den Vorrang besonderer Regelungen nach § 1.3 und § 1.4 unberührt.
